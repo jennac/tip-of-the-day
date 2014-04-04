@@ -1,3 +1,7 @@
+#If you were at our SQL Training, this is based off our 
+# bootcamp database. Make sure to set up your own information 
+# about your database before running!
+
 import psycopg2
 import psycopg2.extras
 from db_info import HOST, NAME, USER, PW
